@@ -8,6 +8,7 @@ you will have to bind the events that the server object has where you choose wha
 
 <h3>Content</h3>
 <p>The system has three objects:</p>
+<p>Ignore this line</p>
 <ul>
     <li>Server  - The listen server object</li>
     <li>Client  - The object that represents a connected client</li>
